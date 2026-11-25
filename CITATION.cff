@@ -2,14 +2,19 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "Code for: Mass-transport limits of stagnant electrochemical DNA sensors: a reaction-diffusion analysis of response time and detection limit"
 type: software
+
 authors:
   - family-names: "Sharifi Taskuh"
     given-names: "Babak"
     orcid: "https://orcid.org/0009-0002-5449-1696"
     affiliation: "Islamic Azad University, Sari Branch"
+
 version: "1.0.0"
+date-released: "YYYY-MM-DD"
 license: MIT
+
 repository-code: "https://github.com/babak-82/Stagnant-DNA-sensor-model"
+
 keywords:
   - biosensor
   - reaction-diffusion
